@@ -1,5 +1,5 @@
 ## Hi there 👋
-![banner]()
+![banner](https://github.com/ilghar2009/ilghar2009/blob/main/ChatGPT%20Image%20Nov%202%2C%202025%2C%2008_42_32%20PM.png)
 <!--
 **ilghar2009/ilghar2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
