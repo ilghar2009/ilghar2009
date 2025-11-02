@@ -1,5 +1,5 @@
 <!-- 🖼️ Banner -->
-[![banner](https://github.com/ilghar2009/ilghar2009/blob/main/ChatGPT%20Image%20Nov%202%2C%202025%2C%2008_42_32%20PM.png)
+![banner](https://github.com/ilghar2009/ilghar2009/blob/main/ChatGPT%20Image%20Nov%202%2C%202025%2C%2008_42_32%20PM.png)
 
 <h1 align="center">Hey there 👋, I'm Ilghar Ebrahimi</h1>
 <h3 align="center">💻 Junior Backend Developer | Passionate about APIs, Databases & Clean Code</h3>
