@@ -1,5 +1,5 @@
 ## Hi there 👋
-![banner]([https://i.imgur.com/4M7IWwP.png](https://github.com/ilghar2009/ilghar2009/blob/main/wp15179934-programmer-hd-wallpapers.webp))
+![banner](https://github.com/ilghar2009/ilghar2009/blob/main/wp15179934-programmer-hd-wallpapers.webp)
 <!--
 **ilghar2009/ilghar2009** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
