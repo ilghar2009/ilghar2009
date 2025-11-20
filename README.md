@@ -2,7 +2,7 @@
 ![banner](https://github.com/ilghar2009/ilghar2009/blob/main/wp15157409-black-minimal-4k-pc-wallpapers.webp)
 
 <h1 align="center">Hey there 👋, I'm Ilghar Ebrahimi</h1>
-<h3 align="center">💻 Junior Backend Developer | Passionate about APIs, Databases & Clean Code</h3>
+<h3 align="center">Backend Developer | Passionate about APIs, Databases & Clean Code</h3>
 
 ---
 
