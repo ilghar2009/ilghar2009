@@ -38,8 +38,6 @@
 ### 📊 GitHub Stats  
 ![Ilghar's GitHub stats](https://github-readme-stats.vercel.app/api?username=ilghar2009&show_icons=true&theme=radical)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ilghar2009&layout=compact&theme=radical)
-![GitHub Profile Views](https://gitviews.com/user/<your-github-@ilghar2009>.svg)
-
 ---
 
 ⭐ **“Keep learning, keep building, and stay curious.”**
