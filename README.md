@@ -32,11 +32,3 @@ Currently learning and improving my skills through real-world projects and conti
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=ilghar2009&theme=merko&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ilghar2009&theme=merko&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ilghar2009&theme=merko&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
