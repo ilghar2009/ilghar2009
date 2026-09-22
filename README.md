@@ -1,9 +1,73 @@
-# 👋 About Me
+# Hi, I'm Ilg 👋
 
-Hi, I'm **Ilqar (Ilg)**, a Backend Developer.
+I'm a backend developer who enjoys building things, understanding how they work, and occasionally going way too deep into a problem.
 
-I enjoy building software, designing backend systems, and exploring new technologies.  
-Currently learning and improving my skills through real-world projects and continuous practice.
+I mainly work with **PHP and Laravel**, and I'm currently exploring **Go, Linux, system design, and backend architecture**.
+
+### 🛠️ What I work with
+
+**Backend**
+
+* PHP
+* Laravel
+* REST APIs
+* MySQL
+* Eloquent
+* Authentication & Authorization
+* JWT
+
+**Tools & Systems**
+
+* Linux
+* Git
+* Docker
+* Postman
+* Redis
+
+**Also familiar with**
+
+* JavaScript
+* HTML
+* CSS
+
+---
+
+### 🚀 Some things I've built
+
+**[Art-Web](https://github.com/ilghar2009/Art-Web)**
+An art platform with a blog, gallery management, comments, likes, image uploads, and art classes.
+
+**[commerce-engine](https://github.com/ilghar2009/commerce-engine)**
+A Laravel REST API for an e-commerce system with authentication, products, categories, cart management, comments, search, filtering, pagination, and role-based authorization.
+
+**[iChat](https://github.com/ilghar2009/iChat)**
+A lightweight real-time chat system built with Laravel and Server-Sent Events, with Redis and automatic message cleanup.
+
+**[Mini-LMS](https://github.com/ilghar2009/Mini-LMS)**
+A learning management system built with Laravel, featuring roles, courses, lessons, enrollments, authentication, and middleware-based access control.
+
+---
+
+### 🧠 Currently learning
+
+* Go
+* Linux & system administration
+* Docker
+* Backend architecture
+* Security
+* Advanced mathematics
+
+I'm less interested in simply collecting technologies and more interested in understanding **why things work the way they do**.
+
+---
+
+### 📌 A little more about me
+
+I like building projects from scratch, breaking things, figuring out why they broke, and rebuilding them better.
+
+I'm still learning, but I'm trying to make each project a little more ambitious than the previous one.
+
+**Build → Break → Understand → Build better.**
 
 ---
 
@@ -11,24 +75,3 @@ Currently learning and improving my skills through real-world projects and conti
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/MrIlg-ilqar)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrIlg.dev@gmail.com)
-
----
-
-## 💻 Tech Stack
-
-### Backend
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-
-### Database & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-### Frontend
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
