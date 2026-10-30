@@ -26,4 +26,4 @@ Beyond software, I'm interested in mathematics, logic, and understanding the ide
 
 ### Connect
 
-[LinkedIn](https://linkedin.com/in/MrIlg-ilqar) · [Email](mailto:mrIlg.dev@gmail.com)
+[LinkedIn](https://linkedin.com/in/MrIlg-ilqar) · [Email](mailto:mrIlg.dev@gmail.com) . [Telgram](https://t.me/lostsoulordead)
